@@ -1,0 +1,1001 @@
+Journal_ID,Date,Account,Debit,Credit,Description
+1,2025-01-02,Salaries Expense,15406,0,Journal entry 1 debit
+1,2025-01-02,Accumulated Depreciation,0,15406,Journal entry 1 credit
+2,2025-01-03,Salaries Expense,16005,0,Journal entry 2 debit
+2,2025-01-03,Cash,0,16005,Journal entry 2 credit
+3,2025-01-04,Inventory,6013,0,Journal entry 3 debit
+3,2025-01-04,Unearned Revenue,0,6013,Journal entry 3 credit
+4,2025-01-05,Equipment,25699,0,Journal entry 4 debit
+4,2025-01-05,Accounts Payable,0,25699,Journal entry 4 credit
+5,2025-01-06,Inventory,17156,0,Journal entry 5 debit
+5,2025-01-06,Revenue,0,17156,Journal entry 5 credit
+6,2025-01-07,Rent Expense,7633,0,Journal entry 6 debit
+6,2025-01-07,Cash,0,7633,Journal entry 6 credit
+7,2025-01-08,Salaries Expense,46833,0,Journal entry 7 debit
+7,2025-01-08,Cash,0,46833,Journal entry 7 credit
+8,2025-01-09,Cash,8426,0,Journal entry 8 debit
+8,2025-01-09,Revenue,0,8426,Journal entry 8 credit
+9,2025-01-10,Prepaid Expenses,39652,0,Journal entry 9 debit
+9,2025-01-10,Capital,0,39652,Journal entry 9 credit
+10,2025-01-11,Equipment,6227,0,Journal entry 10 debit
+10,2025-01-11,Cash,0,6227,Journal entry 10 credit
+11,2025-01-12,Inventory,38900,0,Journal entry 11 debit
+11,2025-01-12,Unearned Revenue,0,38900,Journal entry 11 credit
+12,2025-01-13,Inventory,44708,0,Journal entry 12 debit
+12,2025-01-13,Cash,0,44708,Journal entry 12 credit
+13,2025-01-14,Accounts Receivable,30676,0,Journal entry 13 debit
+13,2025-01-14,Cash,0,30676,Journal entry 13 credit
+14,2025-01-15,Salaries Expense,44614,0,Journal entry 14 debit
+14,2025-01-15,Accumulated Depreciation,0,44614,Journal entry 14 credit
+15,2025-01-16,Accounts Receivable,22247,0,Journal entry 15 debit
+15,2025-01-16,Unearned Revenue,0,22247,Journal entry 15 credit
+16,2025-01-17,Inventory,29036,0,Journal entry 16 debit
+16,2025-01-17,Accumulated Depreciation,0,29036,Journal entry 16 credit
+17,2025-01-18,Equipment,17968,0,Journal entry 17 debit
+17,2025-01-18,Accounts Payable,0,17968,Journal entry 17 credit
+18,2025-01-19,Equipment,48196,0,Journal entry 18 debit
+18,2025-01-19,Revenue,0,48196,Journal entry 18 credit
+19,2025-01-20,Accounts Receivable,43245,0,Journal entry 19 debit
+19,2025-01-20,Capital,0,43245,Journal entry 19 credit
+20,2025-01-21,Office Supplies,19813,0,Journal entry 20 debit
+20,2025-01-21,Accumulated Depreciation,0,19813,Journal entry 20 credit
+21,2025-01-22,Salaries Expense,30119,0,Journal entry 21 debit
+21,2025-01-22,Accounts Payable,0,30119,Journal entry 21 credit
+22,2025-01-23,Accounts Receivable,45549,0,Journal entry 22 debit
+22,2025-01-23,Cash,0,45549,Journal entry 22 credit
+23,2025-01-24,Equipment,3592,0,Journal entry 23 debit
+23,2025-01-24,Cash,0,3592,Journal entry 23 credit
+24,2025-01-25,Prepaid Expenses,42894,0,Journal entry 24 debit
+24,2025-01-25,Capital,0,42894,Journal entry 24 credit
+25,2025-01-26,Accounts Receivable,17515,0,Journal entry 25 debit
+25,2025-01-26,Accounts Payable,0,17515,Journal entry 25 credit
+26,2025-01-27,Office Supplies,32047,0,Journal entry 26 debit
+26,2025-01-27,Accounts Payable,0,32047,Journal entry 26 credit
+27,2025-01-28,Salaries Expense,27985,0,Journal entry 27 debit
+27,2025-01-28,Accounts Payable,0,27985,Journal entry 27 credit
+28,2025-01-29,Salaries Expense,49146,0,Journal entry 28 debit
+28,2025-01-29,Unearned Revenue,0,49146,Journal entry 28 credit
+29,2025-01-30,Inventory,6383,0,Journal entry 29 debit
+29,2025-01-30,Capital,0,6383,Journal entry 29 credit
+30,2025-01-31,Accounts Receivable,19147,0,Journal entry 30 debit
+30,2025-01-31,Unearned Revenue,0,19147,Journal entry 30 credit
+31,2025-02-01,Inventory,43032,0,Journal entry 31 debit
+31,2025-02-01,Accounts Payable,0,43032,Journal entry 31 credit
+32,2025-02-02,Office Supplies,3922,0,Journal entry 32 debit
+32,2025-02-02,Unearned Revenue,0,3922,Journal entry 32 credit
+33,2025-02-03,Equipment,10861,0,Journal entry 33 debit
+33,2025-02-03,Unearned Revenue,0,10861,Journal entry 33 credit
+34,2025-02-04,Accounts Receivable,13075,0,Journal entry 34 debit
+34,2025-02-04,Cash,0,13075,Journal entry 34 credit
+35,2025-02-05,Inventory,36360,0,Journal entry 35 debit
+35,2025-02-05,Capital,0,36360,Journal entry 35 credit
+36,2025-02-06,Office Supplies,5495,0,Journal entry 36 debit
+36,2025-02-06,Capital,0,5495,Journal entry 36 credit
+37,2025-02-07,Rent Expense,27456,0,Journal entry 37 debit
+37,2025-02-07,Accounts Payable,0,27456,Journal entry 37 credit
+38,2025-02-08,Rent Expense,32714,0,Journal entry 38 debit
+38,2025-02-08,Unearned Revenue,0,32714,Journal entry 38 credit
+39,2025-02-09,Prepaid Expenses,14131,0,Journal entry 39 debit
+39,2025-02-09,Revenue,0,14131,Journal entry 39 credit
+40,2025-02-10,Cash,19322,0,Journal entry 40 debit
+40,2025-02-10,Accounts Payable,0,19322,Journal entry 40 credit
+41,2025-02-11,Equipment,16060,0,Journal entry 41 debit
+41,2025-02-11,Unearned Revenue,0,16060,Journal entry 41 credit
+42,2025-02-12,Office Supplies,14898,0,Journal entry 42 debit
+42,2025-02-12,Accounts Payable,0,14898,Journal entry 42 credit
+43,2025-02-13,Equipment,8363,0,Journal entry 43 debit
+43,2025-02-13,Accounts Payable,0,8363,Journal entry 43 credit
+44,2025-02-14,Rent Expense,27383,0,Journal entry 44 debit
+44,2025-02-14,Capital,0,27383,Journal entry 44 credit
+45,2025-02-15,Cash,13441,0,Journal entry 45 debit
+45,2025-02-15,Capital,0,13441,Journal entry 45 credit
+46,2025-02-16,Office Supplies,19769,0,Journal entry 46 debit
+46,2025-02-16,Accounts Payable,0,19769,Journal entry 46 credit
+47,2025-02-17,Office Supplies,40430,0,Journal entry 47 debit
+47,2025-02-17,Revenue,0,40430,Journal entry 47 credit
+48,2025-02-18,Salaries Expense,24404,0,Journal entry 48 debit
+48,2025-02-18,Cash,0,24404,Journal entry 48 credit
+49,2025-02-19,Prepaid Expenses,24311,0,Journal entry 49 debit
+49,2025-02-19,Cash,0,24311,Journal entry 49 credit
+50,2025-02-20,Accounts Receivable,32428,0,Journal entry 50 debit
+50,2025-02-20,Accumulated Depreciation,0,32428,Journal entry 50 credit
+51,2025-02-21,Salaries Expense,10299,0,Journal entry 51 debit
+51,2025-02-21,Cash,0,10299,Journal entry 51 credit
+52,2025-02-22,Prepaid Expenses,40332,0,Journal entry 52 debit
+52,2025-02-22,Cash,0,40332,Journal entry 52 credit
+53,2025-02-23,Prepaid Expenses,7417,0,Journal entry 53 debit
+53,2025-02-23,Unearned Revenue,0,7417,Journal entry 53 credit
+54,2025-02-24,Office Supplies,11368,0,Journal entry 54 debit
+54,2025-02-24,Unearned Revenue,0,11368,Journal entry 54 credit
+55,2025-02-25,Prepaid Expenses,15821,0,Journal entry 55 debit
+55,2025-02-25,Capital,0,15821,Journal entry 55 credit
+56,2025-02-26,Inventory,5740,0,Journal entry 56 debit
+56,2025-02-26,Unearned Revenue,0,5740,Journal entry 56 credit
+57,2025-02-27,Cash,31229,0,Journal entry 57 debit
+57,2025-02-27,Revenue,0,31229,Journal entry 57 credit
+58,2025-02-28,Prepaid Expenses,19519,0,Journal entry 58 debit
+58,2025-02-28,Unearned Revenue,0,19519,Journal entry 58 credit
+59,2025-03-01,Accounts Receivable,26792,0,Journal entry 59 debit
+59,2025-03-01,Accumulated Depreciation,0,26792,Journal entry 59 credit
+60,2025-03-02,Salaries Expense,1450,0,Journal entry 60 debit
+60,2025-03-02,Cash,0,1450,Journal entry 60 credit
+61,2025-03-03,Accounts Receivable,42464,0,Journal entry 61 debit
+61,2025-03-03,Accumulated Depreciation,0,42464,Journal entry 61 credit
+62,2025-03-04,Equipment,25011,0,Journal entry 62 debit
+62,2025-03-04,Accumulated Depreciation,0,25011,Journal entry 62 credit
+63,2025-03-05,Cash,48116,0,Journal entry 63 debit
+63,2025-03-05,Accounts Payable,0,48116,Journal entry 63 credit
+64,2025-03-06,Office Supplies,45367,0,Journal entry 64 debit
+64,2025-03-06,Accounts Payable,0,45367,Journal entry 64 credit
+65,2025-03-07,Rent Expense,16981,0,Journal entry 65 debit
+65,2025-03-07,Cash,0,16981,Journal entry 65 credit
+66,2025-03-08,Prepaid Expenses,10668,0,Journal entry 66 debit
+66,2025-03-08,Accumulated Depreciation,0,10668,Journal entry 66 credit
+67,2025-03-09,Equipment,39952,0,Journal entry 67 debit
+67,2025-03-09,Capital,0,39952,Journal entry 67 credit
+68,2025-03-10,Rent Expense,17084,0,Journal entry 68 debit
+68,2025-03-10,Revenue,0,17084,Journal entry 68 credit
+69,2025-03-11,Inventory,14844,0,Journal entry 69 debit
+69,2025-03-11,Cash,0,14844,Journal entry 69 credit
+70,2025-03-12,Equipment,22200,0,Journal entry 70 debit
+70,2025-03-12,Revenue,0,22200,Journal entry 70 credit
+71,2025-03-13,Cash,36330,0,Journal entry 71 debit
+71,2025-03-13,Cash,0,36330,Journal entry 71 credit
+72,2025-03-14,Prepaid Expenses,34625,0,Journal entry 72 debit
+72,2025-03-14,Capital,0,34625,Journal entry 72 credit
+73,2025-03-15,Office Supplies,39793,0,Journal entry 73 debit
+73,2025-03-15,Capital,0,39793,Journal entry 73 credit
+74,2025-03-16,Salaries Expense,45762,0,Journal entry 74 debit
+74,2025-03-16,Accounts Payable,0,45762,Journal entry 74 credit
+75,2025-03-17,Rent Expense,3470,0,Journal entry 75 debit
+75,2025-03-17,Cash,0,3470,Journal entry 75 credit
+76,2025-03-18,Rent Expense,17833,0,Journal entry 76 debit
+76,2025-03-18,Capital,0,17833,Journal entry 76 credit
+77,2025-03-19,Accounts Receivable,30439,0,Journal entry 77 debit
+77,2025-03-19,Accounts Payable,0,30439,Journal entry 77 credit
+78,2025-03-20,Prepaid Expenses,21642,0,Journal entry 78 debit
+78,2025-03-20,Accumulated Depreciation,0,21642,Journal entry 78 credit
+79,2025-03-21,Cash,3707,0,Journal entry 79 debit
+79,2025-03-21,Cash,0,3707,Journal entry 79 credit
+80,2025-03-22,Office Supplies,5257,0,Journal entry 80 debit
+80,2025-03-22,Cash,0,5257,Journal entry 80 credit
+81,2025-03-23,Accounts Receivable,46129,0,Journal entry 81 debit
+81,2025-03-23,Capital,0,46129,Journal entry 81 credit
+82,2025-03-24,Prepaid Expenses,24259,0,Journal entry 82 debit
+82,2025-03-24,Capital,0,24259,Journal entry 82 credit
+83,2025-03-25,Inventory,46292,0,Journal entry 83 debit
+83,2025-03-25,Capital,0,46292,Journal entry 83 credit
+84,2025-03-26,Salaries Expense,12166,0,Journal entry 84 debit
+84,2025-03-26,Accounts Payable,0,12166,Journal entry 84 credit
+85,2025-03-27,Office Supplies,1150,0,Journal entry 85 debit
+85,2025-03-27,Capital,0,1150,Journal entry 85 credit
+86,2025-03-28,Accounts Receivable,46405,0,Journal entry 86 debit
+86,2025-03-28,Capital,0,46405,Journal entry 86 credit
+87,2025-03-29,Rent Expense,43423,0,Journal entry 87 debit
+87,2025-03-29,Accounts Payable,0,43423,Journal entry 87 credit
+88,2025-03-30,Salaries Expense,33996,0,Journal entry 88 debit
+88,2025-03-30,Accounts Payable,0,33996,Journal entry 88 credit
+89,2025-03-31,Equipment,29848,0,Journal entry 89 debit
+89,2025-03-31,Unearned Revenue,0,29848,Journal entry 89 credit
+90,2025-04-01,Inventory,34126,0,Journal entry 90 debit
+90,2025-04-01,Accumulated Depreciation,0,34126,Journal entry 90 credit
+91,2025-04-02,Salaries Expense,39186,0,Journal entry 91 debit
+91,2025-04-02,Accumulated Depreciation,0,39186,Journal entry 91 credit
+92,2025-04-03,Prepaid Expenses,20063,0,Journal entry 92 debit
+92,2025-04-03,Cash,0,20063,Journal entry 92 credit
+93,2025-04-04,Inventory,24269,0,Journal entry 93 debit
+93,2025-04-04,Unearned Revenue,0,24269,Journal entry 93 credit
+94,2025-04-05,Office Supplies,24120,0,Journal entry 94 debit
+94,2025-04-05,Accumulated Depreciation,0,24120,Journal entry 94 credit
+95,2025-04-06,Rent Expense,28253,0,Journal entry 95 debit
+95,2025-04-06,Accumulated Depreciation,0,28253,Journal entry 95 credit
+96,2025-04-07,Salaries Expense,23553,0,Journal entry 96 debit
+96,2025-04-07,Accumulated Depreciation,0,23553,Journal entry 96 credit
+97,2025-04-08,Inventory,46795,0,Journal entry 97 debit
+97,2025-04-08,Cash,0,46795,Journal entry 97 credit
+98,2025-04-09,Accounts Receivable,9023,0,Journal entry 98 debit
+98,2025-04-09,Revenue,0,9023,Journal entry 98 credit
+99,2025-04-10,Cash,10153,0,Journal entry 99 debit
+99,2025-04-10,Revenue,0,10153,Journal entry 99 credit
+100,2025-04-11,Rent Expense,18751,0,Journal entry 100 debit
+100,2025-04-11,Cash,0,18751,Journal entry 100 credit
+101,2025-04-12,Office Supplies,17471,0,Journal entry 101 debit
+101,2025-04-12,Revenue,0,17471,Journal entry 101 credit
+102,2025-04-13,Equipment,44393,0,Journal entry 102 debit
+102,2025-04-13,Accounts Payable,0,44393,Journal entry 102 credit
+103,2025-04-14,Accounts Receivable,25770,0,Journal entry 103 debit
+103,2025-04-14,Accounts Payable,0,25770,Journal entry 103 credit
+104,2025-04-15,Prepaid Expenses,5100,0,Journal entry 104 debit
+104,2025-04-15,Capital,0,5100,Journal entry 104 credit
+105,2025-04-16,Prepaid Expenses,32946,0,Journal entry 105 debit
+105,2025-04-16,Accounts Payable,0,32946,Journal entry 105 credit
+106,2025-04-17,Office Supplies,26691,0,Journal entry 106 debit
+106,2025-04-17,Unearned Revenue,0,26691,Journal entry 106 credit
+107,2025-04-18,Inventory,38388,0,Journal entry 107 debit
+107,2025-04-18,Accounts Payable,0,38388,Journal entry 107 credit
+108,2025-04-19,Inventory,23701,0,Journal entry 108 debit
+108,2025-04-19,Accumulated Depreciation,0,23701,Journal entry 108 credit
+109,2025-04-20,Cash,23672,0,Journal entry 109 debit
+109,2025-04-20,Cash,0,23672,Journal entry 109 credit
+110,2025-04-21,Rent Expense,22675,0,Journal entry 110 debit
+110,2025-04-21,Capital,0,22675,Journal entry 110 credit
+111,2025-04-22,Cash,45503,0,Journal entry 111 debit
+111,2025-04-22,Unearned Revenue,0,45503,Journal entry 111 credit
+112,2025-04-23,Prepaid Expenses,6182,0,Journal entry 112 debit
+112,2025-04-23,Unearned Revenue,0,6182,Journal entry 112 credit
+113,2025-04-24,Accounts Receivable,6708,0,Journal entry 113 debit
+113,2025-04-24,Accounts Payable,0,6708,Journal entry 113 credit
+114,2025-04-25,Equipment,16781,0,Journal entry 114 debit
+114,2025-04-25,Capital,0,16781,Journal entry 114 credit
+115,2025-04-26,Cash,25814,0,Journal entry 115 debit
+115,2025-04-26,Capital,0,25814,Journal entry 115 credit
+116,2025-04-27,Rent Expense,15053,0,Journal entry 116 debit
+116,2025-04-27,Capital,0,15053,Journal entry 116 credit
+117,2025-04-28,Prepaid Expenses,21103,0,Journal entry 117 debit
+117,2025-04-28,Capital,0,21103,Journal entry 117 credit
+118,2025-04-29,Equipment,33771,0,Journal entry 118 debit
+118,2025-04-29,Unearned Revenue,0,33771,Journal entry 118 credit
+119,2025-04-30,Accounts Receivable,28320,0,Journal entry 119 debit
+119,2025-04-30,Capital,0,28320,Journal entry 119 credit
+120,2025-05-01,Accounts Receivable,25570,0,Journal entry 120 debit
+120,2025-05-01,Revenue,0,25570,Journal entry 120 credit
+121,2025-05-02,Salaries Expense,37504,0,Journal entry 121 debit
+121,2025-05-02,Unearned Revenue,0,37504,Journal entry 121 credit
+122,2025-05-03,Inventory,5724,0,Journal entry 122 debit
+122,2025-05-03,Capital,0,5724,Journal entry 122 credit
+123,2025-05-04,Cash,48459,0,Journal entry 123 debit
+123,2025-05-04,Revenue,0,48459,Journal entry 123 credit
+124,2025-05-05,Office Supplies,19200,0,Journal entry 124 debit
+124,2025-05-05,Accumulated Depreciation,0,19200,Journal entry 124 credit
+125,2025-05-06,Equipment,28147,0,Journal entry 125 debit
+125,2025-05-06,Unearned Revenue,0,28147,Journal entry 125 credit
+126,2025-05-07,Equipment,7531,0,Journal entry 126 debit
+126,2025-05-07,Cash,0,7531,Journal entry 126 credit
+127,2025-05-08,Rent Expense,7258,0,Journal entry 127 debit
+127,2025-05-08,Revenue,0,7258,Journal entry 127 credit
+128,2025-05-09,Salaries Expense,32479,0,Journal entry 128 debit
+128,2025-05-09,Capital,0,32479,Journal entry 128 credit
+129,2025-05-10,Salaries Expense,11378,0,Journal entry 129 debit
+129,2025-05-10,Accounts Payable,0,11378,Journal entry 129 credit
+130,2025-05-11,Cash,48993,0,Journal entry 130 debit
+130,2025-05-11,Capital,0,48993,Journal entry 130 credit
+131,2025-05-12,Equipment,48816,0,Journal entry 131 debit
+131,2025-05-12,Accumulated Depreciation,0,48816,Journal entry 131 credit
+132,2025-05-13,Salaries Expense,27060,0,Journal entry 132 debit
+132,2025-05-13,Cash,0,27060,Journal entry 132 credit
+133,2025-05-14,Office Supplies,22418,0,Journal entry 133 debit
+133,2025-05-14,Accounts Payable,0,22418,Journal entry 133 credit
+134,2025-05-15,Office Supplies,41673,0,Journal entry 134 debit
+134,2025-05-15,Accumulated Depreciation,0,41673,Journal entry 134 credit
+135,2025-05-16,Cash,19510,0,Journal entry 135 debit
+135,2025-05-16,Accounts Payable,0,19510,Journal entry 135 credit
+136,2025-05-17,Prepaid Expenses,6480,0,Journal entry 136 debit
+136,2025-05-17,Unearned Revenue,0,6480,Journal entry 136 credit
+137,2025-05-18,Salaries Expense,32494,0,Journal entry 137 debit
+137,2025-05-18,Accounts Payable,0,32494,Journal entry 137 credit
+138,2025-05-19,Equipment,22246,0,Journal entry 138 debit
+138,2025-05-19,Unearned Revenue,0,22246,Journal entry 138 credit
+139,2025-05-20,Accounts Receivable,31653,0,Journal entry 139 debit
+139,2025-05-20,Capital,0,31653,Journal entry 139 credit
+140,2025-05-21,Equipment,35820,0,Journal entry 140 debit
+140,2025-05-21,Accounts Payable,0,35820,Journal entry 140 credit
+141,2025-05-22,Cash,25201,0,Journal entry 141 debit
+141,2025-05-22,Capital,0,25201,Journal entry 141 credit
+142,2025-05-23,Salaries Expense,13834,0,Journal entry 142 debit
+142,2025-05-23,Unearned Revenue,0,13834,Journal entry 142 credit
+143,2025-05-24,Equipment,3793,0,Journal entry 143 debit
+143,2025-05-24,Revenue,0,3793,Journal entry 143 credit
+144,2025-05-25,Salaries Expense,7966,0,Journal entry 144 debit
+144,2025-05-25,Accumulated Depreciation,0,7966,Journal entry 144 credit
+145,2025-05-26,Accounts Receivable,36780,0,Journal entry 145 debit
+145,2025-05-26,Capital,0,36780,Journal entry 145 credit
+146,2025-05-27,Prepaid Expenses,34380,0,Journal entry 146 debit
+146,2025-05-27,Unearned Revenue,0,34380,Journal entry 146 credit
+147,2025-05-28,Equipment,36786,0,Journal entry 147 debit
+147,2025-05-28,Capital,0,36786,Journal entry 147 credit
+148,2025-05-29,Inventory,5886,0,Journal entry 148 debit
+148,2025-05-29,Accumulated Depreciation,0,5886,Journal entry 148 credit
+149,2025-05-30,Equipment,20805,0,Journal entry 149 debit
+149,2025-05-30,Accounts Payable,0,20805,Journal entry 149 credit
+150,2025-05-31,Equipment,38597,0,Journal entry 150 debit
+150,2025-05-31,Accumulated Depreciation,0,38597,Journal entry 150 credit
+151,2025-06-01,Cash,43940,0,Journal entry 151 debit
+151,2025-06-01,Accounts Payable,0,43940,Journal entry 151 credit
+152,2025-06-02,Office Supplies,49384,0,Journal entry 152 debit
+152,2025-06-02,Unearned Revenue,0,49384,Journal entry 152 credit
+153,2025-06-03,Prepaid Expenses,13376,0,Journal entry 153 debit
+153,2025-06-03,Revenue,0,13376,Journal entry 153 credit
+154,2025-06-04,Cash,7991,0,Journal entry 154 debit
+154,2025-06-04,Accumulated Depreciation,0,7991,Journal entry 154 credit
+155,2025-06-05,Office Supplies,6353,0,Journal entry 155 debit
+155,2025-06-05,Cash,0,6353,Journal entry 155 credit
+156,2025-06-06,Office Supplies,36515,0,Journal entry 156 debit
+156,2025-06-06,Revenue,0,36515,Journal entry 156 credit
+157,2025-06-07,Inventory,23742,0,Journal entry 157 debit
+157,2025-06-07,Unearned Revenue,0,23742,Journal entry 157 credit
+158,2025-06-08,Equipment,45025,0,Journal entry 158 debit
+158,2025-06-08,Accounts Payable,0,45025,Journal entry 158 credit
+159,2025-06-09,Salaries Expense,38037,0,Journal entry 159 debit
+159,2025-06-09,Capital,0,38037,Journal entry 159 credit
+160,2025-06-10,Equipment,9051,0,Journal entry 160 debit
+160,2025-06-10,Cash,0,9051,Journal entry 160 credit
+161,2025-06-11,Accounts Receivable,21204,0,Journal entry 161 debit
+161,2025-06-11,Accumulated Depreciation,0,21204,Journal entry 161 credit
+162,2025-06-12,Salaries Expense,42850,0,Journal entry 162 debit
+162,2025-06-12,Accounts Payable,0,42850,Journal entry 162 credit
+163,2025-06-13,Prepaid Expenses,32374,0,Journal entry 163 debit
+163,2025-06-13,Capital,0,32374,Journal entry 163 credit
+164,2025-06-14,Office Supplies,7373,0,Journal entry 164 debit
+164,2025-06-14,Accumulated Depreciation,0,7373,Journal entry 164 credit
+165,2025-06-15,Accounts Receivable,28464,0,Journal entry 165 debit
+165,2025-06-15,Revenue,0,28464,Journal entry 165 credit
+166,2025-06-16,Rent Expense,13164,0,Journal entry 166 debit
+166,2025-06-16,Accumulated Depreciation,0,13164,Journal entry 166 credit
+167,2025-06-17,Office Supplies,40175,0,Journal entry 167 debit
+167,2025-06-17,Accounts Payable,0,40175,Journal entry 167 credit
+168,2025-06-18,Equipment,49666,0,Journal entry 168 debit
+168,2025-06-18,Cash,0,49666,Journal entry 168 credit
+169,2025-06-19,Equipment,33144,0,Journal entry 169 debit
+169,2025-06-19,Revenue,0,33144,Journal entry 169 credit
+170,2025-06-20,Accounts Receivable,13250,0,Journal entry 170 debit
+170,2025-06-20,Capital,0,13250,Journal entry 170 credit
+171,2025-06-21,Accounts Receivable,30491,0,Journal entry 171 debit
+171,2025-06-21,Revenue,0,30491,Journal entry 171 credit
+172,2025-06-22,Equipment,31679,0,Journal entry 172 debit
+172,2025-06-22,Accounts Payable,0,31679,Journal entry 172 credit
+173,2025-06-23,Accounts Receivable,26969,0,Journal entry 173 debit
+173,2025-06-23,Capital,0,26969,Journal entry 173 credit
+174,2025-06-24,Inventory,16394,0,Journal entry 174 debit
+174,2025-06-24,Unearned Revenue,0,16394,Journal entry 174 credit
+175,2025-06-25,Office Supplies,37164,0,Journal entry 175 debit
+175,2025-06-25,Revenue,0,37164,Journal entry 175 credit
+176,2025-06-26,Rent Expense,5793,0,Journal entry 176 debit
+176,2025-06-26,Accounts Payable,0,5793,Journal entry 176 credit
+177,2025-06-27,Salaries Expense,43291,0,Journal entry 177 debit
+177,2025-06-27,Revenue,0,43291,Journal entry 177 credit
+178,2025-06-28,Prepaid Expenses,25032,0,Journal entry 178 debit
+178,2025-06-28,Accounts Payable,0,25032,Journal entry 178 credit
+179,2025-06-29,Inventory,17214,0,Journal entry 179 debit
+179,2025-06-29,Capital,0,17214,Journal entry 179 credit
+180,2025-06-30,Inventory,19351,0,Journal entry 180 debit
+180,2025-06-30,Capital,0,19351,Journal entry 180 credit
+181,2025-07-01,Office Supplies,6708,0,Journal entry 181 debit
+181,2025-07-01,Accounts Payable,0,6708,Journal entry 181 credit
+182,2025-07-02,Prepaid Expenses,39599,0,Journal entry 182 debit
+182,2025-07-02,Revenue,0,39599,Journal entry 182 credit
+183,2025-07-03,Salaries Expense,44787,0,Journal entry 183 debit
+183,2025-07-03,Capital,0,44787,Journal entry 183 credit
+184,2025-07-04,Salaries Expense,23493,0,Journal entry 184 debit
+184,2025-07-04,Accounts Payable,0,23493,Journal entry 184 credit
+185,2025-07-05,Accounts Receivable,8609,0,Journal entry 185 debit
+185,2025-07-05,Revenue,0,8609,Journal entry 185 credit
+186,2025-07-06,Salaries Expense,24587,0,Journal entry 186 debit
+186,2025-07-06,Unearned Revenue,0,24587,Journal entry 186 credit
+187,2025-07-07,Cash,30382,0,Journal entry 187 debit
+187,2025-07-07,Accumulated Depreciation,0,30382,Journal entry 187 credit
+188,2025-07-08,Inventory,36034,0,Journal entry 188 debit
+188,2025-07-08,Cash,0,36034,Journal entry 188 credit
+189,2025-07-09,Cash,22318,0,Journal entry 189 debit
+189,2025-07-09,Unearned Revenue,0,22318,Journal entry 189 credit
+190,2025-07-10,Salaries Expense,4756,0,Journal entry 190 debit
+190,2025-07-10,Unearned Revenue,0,4756,Journal entry 190 credit
+191,2025-07-11,Inventory,44567,0,Journal entry 191 debit
+191,2025-07-11,Accumulated Depreciation,0,44567,Journal entry 191 credit
+192,2025-07-12,Inventory,14491,0,Journal entry 192 debit
+192,2025-07-12,Unearned Revenue,0,14491,Journal entry 192 credit
+193,2025-07-13,Prepaid Expenses,7816,0,Journal entry 193 debit
+193,2025-07-13,Accumulated Depreciation,0,7816,Journal entry 193 credit
+194,2025-07-14,Salaries Expense,46694,0,Journal entry 194 debit
+194,2025-07-14,Accumulated Depreciation,0,46694,Journal entry 194 credit
+195,2025-07-15,Accounts Receivable,3660,0,Journal entry 195 debit
+195,2025-07-15,Accounts Payable,0,3660,Journal entry 195 credit
+196,2025-07-16,Cash,9744,0,Journal entry 196 debit
+196,2025-07-16,Accounts Payable,0,9744,Journal entry 196 credit
+197,2025-07-17,Rent Expense,10892,0,Journal entry 197 debit
+197,2025-07-17,Accounts Payable,0,10892,Journal entry 197 credit
+198,2025-07-18,Salaries Expense,21667,0,Journal entry 198 debit
+198,2025-07-18,Accumulated Depreciation,0,21667,Journal entry 198 credit
+199,2025-07-19,Accounts Receivable,33975,0,Journal entry 199 debit
+199,2025-07-19,Capital,0,33975,Journal entry 199 credit
+200,2025-07-20,Accounts Receivable,42440,0,Journal entry 200 debit
+200,2025-07-20,Cash,0,42440,Journal entry 200 credit
+201,2025-07-21,Office Supplies,36896,0,Journal entry 201 debit
+201,2025-07-21,Revenue,0,36896,Journal entry 201 credit
+202,2025-07-22,Cash,20513,0,Journal entry 202 debit
+202,2025-07-22,Accumulated Depreciation,0,20513,Journal entry 202 credit
+203,2025-07-23,Equipment,30697,0,Journal entry 203 debit
+203,2025-07-23,Cash,0,30697,Journal entry 203 credit
+204,2025-07-24,Prepaid Expenses,1250,0,Journal entry 204 debit
+204,2025-07-24,Accumulated Depreciation,0,1250,Journal entry 204 credit
+205,2025-07-25,Salaries Expense,11098,0,Journal entry 205 debit
+205,2025-07-25,Revenue,0,11098,Journal entry 205 credit
+206,2025-07-26,Equipment,1481,0,Journal entry 206 debit
+206,2025-07-26,Cash,0,1481,Journal entry 206 credit
+207,2025-07-27,Office Supplies,49202,0,Journal entry 207 debit
+207,2025-07-27,Accumulated Depreciation,0,49202,Journal entry 207 credit
+208,2025-07-28,Salaries Expense,36986,0,Journal entry 208 debit
+208,2025-07-28,Capital,0,36986,Journal entry 208 credit
+209,2025-07-29,Accounts Receivable,17690,0,Journal entry 209 debit
+209,2025-07-29,Cash,0,17690,Journal entry 209 credit
+210,2025-07-30,Equipment,28902,0,Journal entry 210 debit
+210,2025-07-30,Revenue,0,28902,Journal entry 210 credit
+211,2025-07-31,Office Supplies,26248,0,Journal entry 211 debit
+211,2025-07-31,Capital,0,26248,Journal entry 211 credit
+212,2025-08-01,Accounts Receivable,9494,0,Journal entry 212 debit
+212,2025-08-01,Unearned Revenue,0,9494,Journal entry 212 credit
+213,2025-08-02,Prepaid Expenses,14356,0,Journal entry 213 debit
+213,2025-08-02,Capital,0,14356,Journal entry 213 credit
+214,2025-08-03,Salaries Expense,25189,0,Journal entry 214 debit
+214,2025-08-03,Accumulated Depreciation,0,25189,Journal entry 214 credit
+215,2025-08-04,Salaries Expense,23649,0,Journal entry 215 debit
+215,2025-08-04,Cash,0,23649,Journal entry 215 credit
+216,2025-08-05,Office Supplies,11858,0,Journal entry 216 debit
+216,2025-08-05,Capital,0,11858,Journal entry 216 credit
+217,2025-08-06,Salaries Expense,34595,0,Journal entry 217 debit
+217,2025-08-06,Capital,0,34595,Journal entry 217 credit
+218,2025-08-07,Office Supplies,48263,0,Journal entry 218 debit
+218,2025-08-07,Accumulated Depreciation,0,48263,Journal entry 218 credit
+219,2025-08-08,Accounts Receivable,40234,0,Journal entry 219 debit
+219,2025-08-08,Accumulated Depreciation,0,40234,Journal entry 219 credit
+220,2025-08-09,Inventory,14193,0,Journal entry 220 debit
+220,2025-08-09,Accounts Payable,0,14193,Journal entry 220 credit
+221,2025-08-10,Rent Expense,16798,0,Journal entry 221 debit
+221,2025-08-10,Revenue,0,16798,Journal entry 221 credit
+222,2025-08-11,Cash,36706,0,Journal entry 222 debit
+222,2025-08-11,Revenue,0,36706,Journal entry 222 credit
+223,2025-08-12,Office Supplies,9725,0,Journal entry 223 debit
+223,2025-08-12,Accounts Payable,0,9725,Journal entry 223 credit
+224,2025-08-13,Cash,12456,0,Journal entry 224 debit
+224,2025-08-13,Cash,0,12456,Journal entry 224 credit
+225,2025-08-14,Salaries Expense,8840,0,Journal entry 225 debit
+225,2025-08-14,Revenue,0,8840,Journal entry 225 credit
+226,2025-08-15,Cash,28213,0,Journal entry 226 debit
+226,2025-08-15,Accumulated Depreciation,0,28213,Journal entry 226 credit
+227,2025-08-16,Accounts Receivable,31361,0,Journal entry 227 debit
+227,2025-08-16,Accumulated Depreciation,0,31361,Journal entry 227 credit
+228,2025-08-17,Equipment,47298,0,Journal entry 228 debit
+228,2025-08-17,Unearned Revenue,0,47298,Journal entry 228 credit
+229,2025-08-18,Salaries Expense,7230,0,Journal entry 229 debit
+229,2025-08-18,Cash,0,7230,Journal entry 229 credit
+230,2025-08-19,Salaries Expense,44761,0,Journal entry 230 debit
+230,2025-08-19,Revenue,0,44761,Journal entry 230 credit
+231,2025-08-20,Inventory,24326,0,Journal entry 231 debit
+231,2025-08-20,Cash,0,24326,Journal entry 231 credit
+232,2025-08-21,Prepaid Expenses,32006,0,Journal entry 232 debit
+232,2025-08-21,Accounts Payable,0,32006,Journal entry 232 credit
+233,2025-08-22,Accounts Receivable,35272,0,Journal entry 233 debit
+233,2025-08-22,Capital,0,35272,Journal entry 233 credit
+234,2025-08-23,Inventory,10536,0,Journal entry 234 debit
+234,2025-08-23,Cash,0,10536,Journal entry 234 credit
+235,2025-08-24,Cash,8321,0,Journal entry 235 debit
+235,2025-08-24,Accumulated Depreciation,0,8321,Journal entry 235 credit
+236,2025-08-25,Rent Expense,43047,0,Journal entry 236 debit
+236,2025-08-25,Cash,0,43047,Journal entry 236 credit
+237,2025-08-26,Salaries Expense,16377,0,Journal entry 237 debit
+237,2025-08-26,Revenue,0,16377,Journal entry 237 credit
+238,2025-08-27,Equipment,32934,0,Journal entry 238 debit
+238,2025-08-27,Revenue,0,32934,Journal entry 238 credit
+239,2025-08-28,Equipment,25447,0,Journal entry 239 debit
+239,2025-08-28,Accumulated Depreciation,0,25447,Journal entry 239 credit
+240,2025-08-29,Inventory,33879,0,Journal entry 240 debit
+240,2025-08-29,Accumulated Depreciation,0,33879,Journal entry 240 credit
+241,2025-08-30,Office Supplies,15096,0,Journal entry 241 debit
+241,2025-08-30,Accounts Payable,0,15096,Journal entry 241 credit
+242,2025-08-31,Accounts Receivable,34191,0,Journal entry 242 debit
+242,2025-08-31,Accumulated Depreciation,0,34191,Journal entry 242 credit
+243,2025-09-01,Accounts Receivable,21509,0,Journal entry 243 debit
+243,2025-09-01,Accumulated Depreciation,0,21509,Journal entry 243 credit
+244,2025-09-02,Office Supplies,28312,0,Journal entry 244 debit
+244,2025-09-02,Cash,0,28312,Journal entry 244 credit
+245,2025-09-03,Office Supplies,44967,0,Journal entry 245 debit
+245,2025-09-03,Accumulated Depreciation,0,44967,Journal entry 245 credit
+246,2025-09-04,Cash,17668,0,Journal entry 246 debit
+246,2025-09-04,Capital,0,17668,Journal entry 246 credit
+247,2025-09-05,Salaries Expense,15448,0,Journal entry 247 debit
+247,2025-09-05,Accumulated Depreciation,0,15448,Journal entry 247 credit
+248,2025-09-06,Accounts Receivable,29661,0,Journal entry 248 debit
+248,2025-09-06,Accounts Payable,0,29661,Journal entry 248 credit
+249,2025-09-07,Cash,31106,0,Journal entry 249 debit
+249,2025-09-07,Accumulated Depreciation,0,31106,Journal entry 249 credit
+250,2025-09-08,Prepaid Expenses,49306,0,Journal entry 250 debit
+250,2025-09-08,Cash,0,49306,Journal entry 250 credit
+251,2025-09-09,Salaries Expense,26117,0,Journal entry 251 debit
+251,2025-09-09,Capital,0,26117,Journal entry 251 credit
+252,2025-09-10,Salaries Expense,30586,0,Journal entry 252 debit
+252,2025-09-10,Capital,0,30586,Journal entry 252 credit
+253,2025-09-11,Prepaid Expenses,33524,0,Journal entry 253 debit
+253,2025-09-11,Capital,0,33524,Journal entry 253 credit
+254,2025-09-12,Inventory,18947,0,Journal entry 254 debit
+254,2025-09-12,Cash,0,18947,Journal entry 254 credit
+255,2025-09-13,Equipment,16421,0,Journal entry 255 debit
+255,2025-09-13,Accumulated Depreciation,0,16421,Journal entry 255 credit
+256,2025-09-14,Inventory,6751,0,Journal entry 256 debit
+256,2025-09-14,Cash,0,6751,Journal entry 256 credit
+257,2025-09-15,Inventory,714,0,Journal entry 257 debit
+257,2025-09-15,Unearned Revenue,0,714,Journal entry 257 credit
+258,2025-09-16,Salaries Expense,34038,0,Journal entry 258 debit
+258,2025-09-16,Revenue,0,34038,Journal entry 258 credit
+259,2025-09-17,Prepaid Expenses,32093,0,Journal entry 259 debit
+259,2025-09-17,Revenue,0,32093,Journal entry 259 credit
+260,2025-09-18,Salaries Expense,17325,0,Journal entry 260 debit
+260,2025-09-18,Revenue,0,17325,Journal entry 260 credit
+261,2025-09-19,Cash,48235,0,Journal entry 261 debit
+261,2025-09-19,Unearned Revenue,0,48235,Journal entry 261 credit
+262,2025-09-20,Salaries Expense,14296,0,Journal entry 262 debit
+262,2025-09-20,Cash,0,14296,Journal entry 262 credit
+263,2025-09-21,Equipment,32340,0,Journal entry 263 debit
+263,2025-09-21,Accumulated Depreciation,0,32340,Journal entry 263 credit
+264,2025-09-22,Accounts Receivable,27011,0,Journal entry 264 debit
+264,2025-09-22,Revenue,0,27011,Journal entry 264 credit
+265,2025-09-23,Accounts Receivable,20308,0,Journal entry 265 debit
+265,2025-09-23,Accumulated Depreciation,0,20308,Journal entry 265 credit
+266,2025-09-24,Prepaid Expenses,40417,0,Journal entry 266 debit
+266,2025-09-24,Cash,0,40417,Journal entry 266 credit
+267,2025-09-25,Accounts Receivable,3168,0,Journal entry 267 debit
+267,2025-09-25,Capital,0,3168,Journal entry 267 credit
+268,2025-09-26,Inventory,39159,0,Journal entry 268 debit
+268,2025-09-26,Cash,0,39159,Journal entry 268 credit
+269,2025-09-27,Prepaid Expenses,1130,0,Journal entry 269 debit
+269,2025-09-27,Unearned Revenue,0,1130,Journal entry 269 credit
+270,2025-09-28,Prepaid Expenses,763,0,Journal entry 270 debit
+270,2025-09-28,Accumulated Depreciation,0,763,Journal entry 270 credit
+271,2025-09-29,Inventory,33332,0,Journal entry 271 debit
+271,2025-09-29,Capital,0,33332,Journal entry 271 credit
+272,2025-09-30,Accounts Receivable,36953,0,Journal entry 272 debit
+272,2025-09-30,Accounts Payable,0,36953,Journal entry 272 credit
+273,2025-10-01,Salaries Expense,37006,0,Journal entry 273 debit
+273,2025-10-01,Capital,0,37006,Journal entry 273 credit
+274,2025-10-02,Inventory,17676,0,Journal entry 274 debit
+274,2025-10-02,Capital,0,17676,Journal entry 274 credit
+275,2025-10-03,Accounts Receivable,11457,0,Journal entry 275 debit
+275,2025-10-03,Unearned Revenue,0,11457,Journal entry 275 credit
+276,2025-10-04,Prepaid Expenses,24899,0,Journal entry 276 debit
+276,2025-10-04,Cash,0,24899,Journal entry 276 credit
+277,2025-10-05,Inventory,44115,0,Journal entry 277 debit
+277,2025-10-05,Accumulated Depreciation,0,44115,Journal entry 277 credit
+278,2025-10-06,Inventory,7650,0,Journal entry 278 debit
+278,2025-10-06,Accounts Payable,0,7650,Journal entry 278 credit
+279,2025-10-07,Office Supplies,37204,0,Journal entry 279 debit
+279,2025-10-07,Accounts Payable,0,37204,Journal entry 279 credit
+280,2025-10-08,Equipment,46323,0,Journal entry 280 debit
+280,2025-10-08,Cash,0,46323,Journal entry 280 credit
+281,2025-10-09,Prepaid Expenses,9591,0,Journal entry 281 debit
+281,2025-10-09,Unearned Revenue,0,9591,Journal entry 281 credit
+282,2025-10-10,Salaries Expense,23150,0,Journal entry 282 debit
+282,2025-10-10,Accumulated Depreciation,0,23150,Journal entry 282 credit
+283,2025-10-11,Office Supplies,22521,0,Journal entry 283 debit
+283,2025-10-11,Revenue,0,22521,Journal entry 283 credit
+284,2025-10-12,Inventory,13089,0,Journal entry 284 debit
+284,2025-10-12,Accumulated Depreciation,0,13089,Journal entry 284 credit
+285,2025-10-13,Cash,1036,0,Journal entry 285 debit
+285,2025-10-13,Revenue,0,1036,Journal entry 285 credit
+286,2025-10-14,Equipment,37561,0,Journal entry 286 debit
+286,2025-10-14,Cash,0,37561,Journal entry 286 credit
+287,2025-10-15,Equipment,14917,0,Journal entry 287 debit
+287,2025-10-15,Cash,0,14917,Journal entry 287 credit
+288,2025-10-16,Equipment,12938,0,Journal entry 288 debit
+288,2025-10-16,Accounts Payable,0,12938,Journal entry 288 credit
+289,2025-10-17,Equipment,15876,0,Journal entry 289 debit
+289,2025-10-17,Capital,0,15876,Journal entry 289 credit
+290,2025-10-18,Accounts Receivable,26835,0,Journal entry 290 debit
+290,2025-10-18,Capital,0,26835,Journal entry 290 credit
+291,2025-10-19,Prepaid Expenses,45117,0,Journal entry 291 debit
+291,2025-10-19,Cash,0,45117,Journal entry 291 credit
+292,2025-10-20,Equipment,4823,0,Journal entry 292 debit
+292,2025-10-20,Revenue,0,4823,Journal entry 292 credit
+293,2025-10-21,Rent Expense,10566,0,Journal entry 293 debit
+293,2025-10-21,Accounts Payable,0,10566,Journal entry 293 credit
+294,2025-10-22,Cash,3889,0,Journal entry 294 debit
+294,2025-10-22,Unearned Revenue,0,3889,Journal entry 294 credit
+295,2025-10-23,Equipment,27026,0,Journal entry 295 debit
+295,2025-10-23,Unearned Revenue,0,27026,Journal entry 295 credit
+296,2025-10-24,Cash,48535,0,Journal entry 296 debit
+296,2025-10-24,Capital,0,48535,Journal entry 296 credit
+297,2025-10-25,Office Supplies,40400,0,Journal entry 297 debit
+297,2025-10-25,Revenue,0,40400,Journal entry 297 credit
+298,2025-10-26,Prepaid Expenses,24836,0,Journal entry 298 debit
+298,2025-10-26,Unearned Revenue,0,24836,Journal entry 298 credit
+299,2025-10-27,Equipment,11988,0,Journal entry 299 debit
+299,2025-10-27,Accumulated Depreciation,0,11988,Journal entry 299 credit
+300,2025-10-28,Equipment,37967,0,Journal entry 300 debit
+300,2025-10-28,Accounts Payable,0,37967,Journal entry 300 credit
+301,2025-10-29,Cash,1144,0,Journal entry 301 debit
+301,2025-10-29,Accounts Payable,0,1144,Journal entry 301 credit
+302,2025-10-30,Rent Expense,5854,0,Journal entry 302 debit
+302,2025-10-30,Accumulated Depreciation,0,5854,Journal entry 302 credit
+303,2025-10-31,Equipment,15531,0,Journal entry 303 debit
+303,2025-10-31,Accounts Payable,0,15531,Journal entry 303 credit
+304,2025-11-01,Equipment,49689,0,Journal entry 304 debit
+304,2025-11-01,Capital,0,49689,Journal entry 304 credit
+305,2025-11-02,Cash,27235,0,Journal entry 305 debit
+305,2025-11-02,Capital,0,27235,Journal entry 305 credit
+306,2025-11-03,Rent Expense,46763,0,Journal entry 306 debit
+306,2025-11-03,Revenue,0,46763,Journal entry 306 credit
+307,2025-11-04,Prepaid Expenses,3598,0,Journal entry 307 debit
+307,2025-11-04,Unearned Revenue,0,3598,Journal entry 307 credit
+308,2025-11-05,Cash,24276,0,Journal entry 308 debit
+308,2025-11-05,Capital,0,24276,Journal entry 308 credit
+309,2025-11-06,Accounts Receivable,23158,0,Journal entry 309 debit
+309,2025-11-06,Cash,0,23158,Journal entry 309 credit
+310,2025-11-07,Office Supplies,20477,0,Journal entry 310 debit
+310,2025-11-07,Capital,0,20477,Journal entry 310 credit
+311,2025-11-08,Rent Expense,22946,0,Journal entry 311 debit
+311,2025-11-08,Unearned Revenue,0,22946,Journal entry 311 credit
+312,2025-11-09,Cash,48501,0,Journal entry 312 debit
+312,2025-11-09,Revenue,0,48501,Journal entry 312 credit
+313,2025-11-10,Inventory,42823,0,Journal entry 313 debit
+313,2025-11-10,Accumulated Depreciation,0,42823,Journal entry 313 credit
+314,2025-11-11,Inventory,6263,0,Journal entry 314 debit
+314,2025-11-11,Accounts Payable,0,6263,Journal entry 314 credit
+315,2025-11-12,Office Supplies,36363,0,Journal entry 315 debit
+315,2025-11-12,Accounts Payable,0,36363,Journal entry 315 credit
+316,2025-11-13,Inventory,34380,0,Journal entry 316 debit
+316,2025-11-13,Accounts Payable,0,34380,Journal entry 316 credit
+317,2025-11-14,Accounts Receivable,29781,0,Journal entry 317 debit
+317,2025-11-14,Cash,0,29781,Journal entry 317 credit
+318,2025-11-15,Salaries Expense,12742,0,Journal entry 318 debit
+318,2025-11-15,Revenue,0,12742,Journal entry 318 credit
+319,2025-11-16,Accounts Receivable,41579,0,Journal entry 319 debit
+319,2025-11-16,Capital,0,41579,Journal entry 319 credit
+320,2025-11-17,Prepaid Expenses,13638,0,Journal entry 320 debit
+320,2025-11-17,Revenue,0,13638,Journal entry 320 credit
+321,2025-11-18,Accounts Receivable,16935,0,Journal entry 321 debit
+321,2025-11-18,Accounts Payable,0,16935,Journal entry 321 credit
+322,2025-11-19,Cash,12008,0,Journal entry 322 debit
+322,2025-11-19,Capital,0,12008,Journal entry 322 credit
+323,2025-11-20,Rent Expense,11301,0,Journal entry 323 debit
+323,2025-11-20,Capital,0,11301,Journal entry 323 credit
+324,2025-11-21,Inventory,23068,0,Journal entry 324 debit
+324,2025-11-21,Capital,0,23068,Journal entry 324 credit
+325,2025-11-22,Rent Expense,38811,0,Journal entry 325 debit
+325,2025-11-22,Accumulated Depreciation,0,38811,Journal entry 325 credit
+326,2025-11-23,Accounts Receivable,46832,0,Journal entry 326 debit
+326,2025-11-23,Accounts Payable,0,46832,Journal entry 326 credit
+327,2025-11-24,Salaries Expense,26272,0,Journal entry 327 debit
+327,2025-11-24,Capital,0,26272,Journal entry 327 credit
+328,2025-11-25,Salaries Expense,39868,0,Journal entry 328 debit
+328,2025-11-25,Revenue,0,39868,Journal entry 328 credit
+329,2025-11-26,Office Supplies,35613,0,Journal entry 329 debit
+329,2025-11-26,Unearned Revenue,0,35613,Journal entry 329 credit
+330,2025-11-27,Inventory,38228,0,Journal entry 330 debit
+330,2025-11-27,Unearned Revenue,0,38228,Journal entry 330 credit
+331,2025-11-28,Equipment,16146,0,Journal entry 331 debit
+331,2025-11-28,Accumulated Depreciation,0,16146,Journal entry 331 credit
+332,2025-11-29,Inventory,1185,0,Journal entry 332 debit
+332,2025-11-29,Capital,0,1185,Journal entry 332 credit
+333,2025-11-30,Accounts Receivable,20867,0,Journal entry 333 debit
+333,2025-11-30,Revenue,0,20867,Journal entry 333 credit
+334,2025-12-01,Salaries Expense,33996,0,Journal entry 334 debit
+334,2025-12-01,Unearned Revenue,0,33996,Journal entry 334 credit
+335,2025-12-02,Prepaid Expenses,2553,0,Journal entry 335 debit
+335,2025-12-02,Cash,0,2553,Journal entry 335 credit
+336,2025-12-03,Cash,661,0,Journal entry 336 debit
+336,2025-12-03,Unearned Revenue,0,661,Journal entry 336 credit
+337,2025-12-04,Cash,928,0,Journal entry 337 debit
+337,2025-12-04,Accumulated Depreciation,0,928,Journal entry 337 credit
+338,2025-12-05,Cash,1052,0,Journal entry 338 debit
+338,2025-12-05,Accumulated Depreciation,0,1052,Journal entry 338 credit
+339,2025-12-06,Salaries Expense,40164,0,Journal entry 339 debit
+339,2025-12-06,Revenue,0,40164,Journal entry 339 credit
+340,2025-12-07,Equipment,23761,0,Journal entry 340 debit
+340,2025-12-07,Unearned Revenue,0,23761,Journal entry 340 credit
+341,2025-12-08,Prepaid Expenses,9314,0,Journal entry 341 debit
+341,2025-12-08,Revenue,0,9314,Journal entry 341 credit
+342,2025-12-09,Salaries Expense,12644,0,Journal entry 342 debit
+342,2025-12-09,Accumulated Depreciation,0,12644,Journal entry 342 credit
+343,2025-12-10,Rent Expense,33597,0,Journal entry 343 debit
+343,2025-12-10,Revenue,0,33597,Journal entry 343 credit
+344,2025-12-11,Cash,44080,0,Journal entry 344 debit
+344,2025-12-11,Cash,0,44080,Journal entry 344 credit
+345,2025-12-12,Equipment,25997,0,Journal entry 345 debit
+345,2025-12-12,Cash,0,25997,Journal entry 345 credit
+346,2025-12-13,Cash,29278,0,Journal entry 346 debit
+346,2025-12-13,Cash,0,29278,Journal entry 346 credit
+347,2025-12-14,Accounts Receivable,22379,0,Journal entry 347 debit
+347,2025-12-14,Accumulated Depreciation,0,22379,Journal entry 347 credit
+348,2025-12-15,Salaries Expense,39173,0,Journal entry 348 debit
+348,2025-12-15,Capital,0,39173,Journal entry 348 credit
+349,2025-12-16,Inventory,4715,0,Journal entry 349 debit
+349,2025-12-16,Unearned Revenue,0,4715,Journal entry 349 credit
+350,2025-12-17,Salaries Expense,11317,0,Journal entry 350 debit
+350,2025-12-17,Accounts Payable,0,11317,Journal entry 350 credit
+351,2025-12-18,Office Supplies,34028,0,Journal entry 351 debit
+351,2025-12-18,Unearned Revenue,0,34028,Journal entry 351 credit
+352,2025-12-19,Office Supplies,48815,0,Journal entry 352 debit
+352,2025-12-19,Cash,0,48815,Journal entry 352 credit
+353,2025-12-20,Cash,30479,0,Journal entry 353 debit
+353,2025-12-20,Accounts Payable,0,30479,Journal entry 353 credit
+354,2025-12-21,Prepaid Expenses,18292,0,Journal entry 354 debit
+354,2025-12-21,Accumulated Depreciation,0,18292,Journal entry 354 credit
+355,2025-12-22,Cash,32809,0,Journal entry 355 debit
+355,2025-12-22,Cash,0,32809,Journal entry 355 credit
+356,2025-12-23,Accounts Receivable,31618,0,Journal entry 356 debit
+356,2025-12-23,Cash,0,31618,Journal entry 356 credit
+357,2025-12-24,Prepaid Expenses,41782,0,Journal entry 357 debit
+357,2025-12-24,Unearned Revenue,0,41782,Journal entry 357 credit
+358,2025-12-25,Office Supplies,47380,0,Journal entry 358 debit
+358,2025-12-25,Capital,0,47380,Journal entry 358 credit
+359,2025-12-26,Rent Expense,6769,0,Journal entry 359 debit
+359,2025-12-26,Accounts Payable,0,6769,Journal entry 359 credit
+360,2025-12-27,Cash,29950,0,Journal entry 360 debit
+360,2025-12-27,Capital,0,29950,Journal entry 360 credit
+361,2025-12-28,Salaries Expense,24857,0,Journal entry 361 debit
+361,2025-12-28,Accumulated Depreciation,0,24857,Journal entry 361 credit
+362,2025-12-29,Accounts Receivable,34141,0,Journal entry 362 debit
+362,2025-12-29,Unearned Revenue,0,34141,Journal entry 362 credit
+363,2025-12-30,Inventory,42493,0,Journal entry 363 debit
+363,2025-12-30,Accumulated Depreciation,0,42493,Journal entry 363 credit
+364,2025-12-31,Accounts Receivable,47485,0,Journal entry 364 debit
+364,2025-12-31,Accumulated Depreciation,0,47485,Journal entry 364 credit
+365,2025-01-01,Accounts Receivable,1910,0,Journal entry 365 debit
+365,2025-01-01,Unearned Revenue,0,1910,Journal entry 365 credit
+366,2025-01-02,Cash,29978,0,Journal entry 366 debit
+366,2025-01-02,Accounts Payable,0,29978,Journal entry 366 credit
+367,2025-01-03,Equipment,21649,0,Journal entry 367 debit
+367,2025-01-03,Revenue,0,21649,Journal entry 367 credit
+368,2025-01-04,Office Supplies,8865,0,Journal entry 368 debit
+368,2025-01-04,Revenue,0,8865,Journal entry 368 credit
+369,2025-01-05,Rent Expense,46015,0,Journal entry 369 debit
+369,2025-01-05,Accumulated Depreciation,0,46015,Journal entry 369 credit
+370,2025-01-06,Office Supplies,11441,0,Journal entry 370 debit
+370,2025-01-06,Capital,0,11441,Journal entry 370 credit
+371,2025-01-07,Equipment,43990,0,Journal entry 371 debit
+371,2025-01-07,Capital,0,43990,Journal entry 371 credit
+372,2025-01-08,Office Supplies,7482,0,Journal entry 372 debit
+372,2025-01-08,Revenue,0,7482,Journal entry 372 credit
+373,2025-01-09,Prepaid Expenses,13894,0,Journal entry 373 debit
+373,2025-01-09,Revenue,0,13894,Journal entry 373 credit
+374,2025-01-10,Salaries Expense,42935,0,Journal entry 374 debit
+374,2025-01-10,Revenue,0,42935,Journal entry 374 credit
+375,2025-01-11,Rent Expense,10651,0,Journal entry 375 debit
+375,2025-01-11,Accumulated Depreciation,0,10651,Journal entry 375 credit
+376,2025-01-12,Rent Expense,19458,0,Journal entry 376 debit
+376,2025-01-12,Accounts Payable,0,19458,Journal entry 376 credit
+377,2025-01-13,Salaries Expense,48762,0,Journal entry 377 debit
+377,2025-01-13,Revenue,0,48762,Journal entry 377 credit
+378,2025-01-14,Equipment,37597,0,Journal entry 378 debit
+378,2025-01-14,Cash,0,37597,Journal entry 378 credit
+379,2025-01-15,Inventory,3918,0,Journal entry 379 debit
+379,2025-01-15,Accounts Payable,0,3918,Journal entry 379 credit
+380,2025-01-16,Office Supplies,35460,0,Journal entry 380 debit
+380,2025-01-16,Unearned Revenue,0,35460,Journal entry 380 credit
+381,2025-01-17,Salaries Expense,8681,0,Journal entry 381 debit
+381,2025-01-17,Accounts Payable,0,8681,Journal entry 381 credit
+382,2025-01-18,Rent Expense,41081,0,Journal entry 382 debit
+382,2025-01-18,Accumulated Depreciation,0,41081,Journal entry 382 credit
+383,2025-01-19,Rent Expense,18919,0,Journal entry 383 debit
+383,2025-01-19,Capital,0,18919,Journal entry 383 credit
+384,2025-01-20,Prepaid Expenses,47254,0,Journal entry 384 debit
+384,2025-01-20,Capital,0,47254,Journal entry 384 credit
+385,2025-01-21,Salaries Expense,9434,0,Journal entry 385 debit
+385,2025-01-21,Revenue,0,9434,Journal entry 385 credit
+386,2025-01-22,Accounts Receivable,27499,0,Journal entry 386 debit
+386,2025-01-22,Capital,0,27499,Journal entry 386 credit
+387,2025-01-23,Inventory,2762,0,Journal entry 387 debit
+387,2025-01-23,Unearned Revenue,0,2762,Journal entry 387 credit
+388,2025-01-24,Equipment,5640,0,Journal entry 388 debit
+388,2025-01-24,Unearned Revenue,0,5640,Journal entry 388 credit
+389,2025-01-25,Inventory,27917,0,Journal entry 389 debit
+389,2025-01-25,Cash,0,27917,Journal entry 389 credit
+390,2025-01-26,Prepaid Expenses,9890,0,Journal entry 390 debit
+390,2025-01-26,Accumulated Depreciation,0,9890,Journal entry 390 credit
+391,2025-01-27,Prepaid Expenses,13827,0,Journal entry 391 debit
+391,2025-01-27,Unearned Revenue,0,13827,Journal entry 391 credit
+392,2025-01-28,Salaries Expense,34577,0,Journal entry 392 debit
+392,2025-01-28,Accumulated Depreciation,0,34577,Journal entry 392 credit
+393,2025-01-29,Rent Expense,31811,0,Journal entry 393 debit
+393,2025-01-29,Accounts Payable,0,31811,Journal entry 393 credit
+394,2025-01-30,Office Supplies,32146,0,Journal entry 394 debit
+394,2025-01-30,Accounts Payable,0,32146,Journal entry 394 credit
+395,2025-01-31,Accounts Receivable,40847,0,Journal entry 395 debit
+395,2025-01-31,Cash,0,40847,Journal entry 395 credit
+396,2025-02-01,Accounts Receivable,32231,0,Journal entry 396 debit
+396,2025-02-01,Unearned Revenue,0,32231,Journal entry 396 credit
+397,2025-02-02,Salaries Expense,27871,0,Journal entry 397 debit
+397,2025-02-02,Unearned Revenue,0,27871,Journal entry 397 credit
+398,2025-02-03,Inventory,36164,0,Journal entry 398 debit
+398,2025-02-03,Unearned Revenue,0,36164,Journal entry 398 credit
+399,2025-02-04,Inventory,45798,0,Journal entry 399 debit
+399,2025-02-04,Accounts Payable,0,45798,Journal entry 399 credit
+400,2025-02-05,Office Supplies,8969,0,Journal entry 400 debit
+400,2025-02-05,Accumulated Depreciation,0,8969,Journal entry 400 credit
+401,2025-02-06,Accounts Receivable,40723,0,Journal entry 401 debit
+401,2025-02-06,Cash,0,40723,Journal entry 401 credit
+402,2025-02-07,Office Supplies,32818,0,Journal entry 402 debit
+402,2025-02-07,Capital,0,32818,Journal entry 402 credit
+403,2025-02-08,Office Supplies,1593,0,Journal entry 403 debit
+403,2025-02-08,Unearned Revenue,0,1593,Journal entry 403 credit
+404,2025-02-09,Cash,36784,0,Journal entry 404 debit
+404,2025-02-09,Accumulated Depreciation,0,36784,Journal entry 404 credit
+405,2025-02-10,Inventory,28279,0,Journal entry 405 debit
+405,2025-02-10,Accumulated Depreciation,0,28279,Journal entry 405 credit
+406,2025-02-11,Salaries Expense,43575,0,Journal entry 406 debit
+406,2025-02-11,Unearned Revenue,0,43575,Journal entry 406 credit
+407,2025-02-12,Prepaid Expenses,27070,0,Journal entry 407 debit
+407,2025-02-12,Unearned Revenue,0,27070,Journal entry 407 credit
+408,2025-02-13,Salaries Expense,24363,0,Journal entry 408 debit
+408,2025-02-13,Accounts Payable,0,24363,Journal entry 408 credit
+409,2025-02-14,Rent Expense,44566,0,Journal entry 409 debit
+409,2025-02-14,Cash,0,44566,Journal entry 409 credit
+410,2025-02-15,Equipment,49806,0,Journal entry 410 debit
+410,2025-02-15,Cash,0,49806,Journal entry 410 credit
+411,2025-02-16,Office Supplies,9164,0,Journal entry 411 debit
+411,2025-02-16,Cash,0,9164,Journal entry 411 credit
+412,2025-02-17,Office Supplies,8041,0,Journal entry 412 debit
+412,2025-02-17,Revenue,0,8041,Journal entry 412 credit
+413,2025-02-18,Rent Expense,2411,0,Journal entry 413 debit
+413,2025-02-18,Capital,0,2411,Journal entry 413 credit
+414,2025-02-19,Equipment,23906,0,Journal entry 414 debit
+414,2025-02-19,Accounts Payable,0,23906,Journal entry 414 credit
+415,2025-02-20,Inventory,30711,0,Journal entry 415 debit
+415,2025-02-20,Accumulated Depreciation,0,30711,Journal entry 415 credit
+416,2025-02-21,Salaries Expense,37702,0,Journal entry 416 debit
+416,2025-02-21,Cash,0,37702,Journal entry 416 credit
+417,2025-02-22,Prepaid Expenses,28379,0,Journal entry 417 debit
+417,2025-02-22,Accumulated Depreciation,0,28379,Journal entry 417 credit
+418,2025-02-23,Accounts Receivable,3610,0,Journal entry 418 debit
+418,2025-02-23,Revenue,0,3610,Journal entry 418 credit
+419,2025-02-24,Inventory,47206,0,Journal entry 419 debit
+419,2025-02-24,Accounts Payable,0,47206,Journal entry 419 credit
+420,2025-02-25,Office Supplies,13998,0,Journal entry 420 debit
+420,2025-02-25,Accounts Payable,0,13998,Journal entry 420 credit
+421,2025-02-26,Cash,41696,0,Journal entry 421 debit
+421,2025-02-26,Unearned Revenue,0,41696,Journal entry 421 credit
+422,2025-02-27,Cash,49892,0,Journal entry 422 debit
+422,2025-02-27,Cash,0,49892,Journal entry 422 credit
+423,2025-02-28,Rent Expense,3509,0,Journal entry 423 debit
+423,2025-02-28,Cash,0,3509,Journal entry 423 credit
+424,2025-03-01,Accounts Receivable,12997,0,Journal entry 424 debit
+424,2025-03-01,Accounts Payable,0,12997,Journal entry 424 credit
+425,2025-03-02,Rent Expense,29126,0,Journal entry 425 debit
+425,2025-03-02,Accumulated Depreciation,0,29126,Journal entry 425 credit
+426,2025-03-03,Inventory,1079,0,Journal entry 426 debit
+426,2025-03-03,Unearned Revenue,0,1079,Journal entry 426 credit
+427,2025-03-04,Cash,21112,0,Journal entry 427 debit
+427,2025-03-04,Capital,0,21112,Journal entry 427 credit
+428,2025-03-05,Prepaid Expenses,30276,0,Journal entry 428 debit
+428,2025-03-05,Accumulated Depreciation,0,30276,Journal entry 428 credit
+429,2025-03-06,Office Supplies,7980,0,Journal entry 429 debit
+429,2025-03-06,Cash,0,7980,Journal entry 429 credit
+430,2025-03-07,Equipment,43816,0,Journal entry 430 debit
+430,2025-03-07,Unearned Revenue,0,43816,Journal entry 430 credit
+431,2025-03-08,Equipment,26850,0,Journal entry 431 debit
+431,2025-03-08,Cash,0,26850,Journal entry 431 credit
+432,2025-03-09,Prepaid Expenses,14316,0,Journal entry 432 debit
+432,2025-03-09,Accounts Payable,0,14316,Journal entry 432 credit
+433,2025-03-10,Equipment,49876,0,Journal entry 433 debit
+433,2025-03-10,Accumulated Depreciation,0,49876,Journal entry 433 credit
+434,2025-03-11,Salaries Expense,22492,0,Journal entry 434 debit
+434,2025-03-11,Cash,0,22492,Journal entry 434 credit
+435,2025-03-12,Cash,38123,0,Journal entry 435 debit
+435,2025-03-12,Cash,0,38123,Journal entry 435 credit
+436,2025-03-13,Prepaid Expenses,5504,0,Journal entry 436 debit
+436,2025-03-13,Unearned Revenue,0,5504,Journal entry 436 credit
+437,2025-03-14,Prepaid Expenses,39422,0,Journal entry 437 debit
+437,2025-03-14,Accounts Payable,0,39422,Journal entry 437 credit
+438,2025-03-15,Prepaid Expenses,20566,0,Journal entry 438 debit
+438,2025-03-15,Accounts Payable,0,20566,Journal entry 438 credit
+439,2025-03-16,Equipment,2508,0,Journal entry 439 debit
+439,2025-03-16,Capital,0,2508,Journal entry 439 credit
+440,2025-03-17,Rent Expense,6003,0,Journal entry 440 debit
+440,2025-03-17,Revenue,0,6003,Journal entry 440 credit
+441,2025-03-18,Prepaid Expenses,7509,0,Journal entry 441 debit
+441,2025-03-18,Cash,0,7509,Journal entry 441 credit
+442,2025-03-19,Accounts Receivable,31058,0,Journal entry 442 debit
+442,2025-03-19,Unearned Revenue,0,31058,Journal entry 442 credit
+443,2025-03-20,Salaries Expense,45814,0,Journal entry 443 debit
+443,2025-03-20,Unearned Revenue,0,45814,Journal entry 443 credit
+444,2025-03-21,Office Supplies,38311,0,Journal entry 444 debit
+444,2025-03-21,Unearned Revenue,0,38311,Journal entry 444 credit
+445,2025-03-22,Cash,38565,0,Journal entry 445 debit
+445,2025-03-22,Unearned Revenue,0,38565,Journal entry 445 credit
+446,2025-03-23,Prepaid Expenses,36776,0,Journal entry 446 debit
+446,2025-03-23,Accumulated Depreciation,0,36776,Journal entry 446 credit
+447,2025-03-24,Prepaid Expenses,22407,0,Journal entry 447 debit
+447,2025-03-24,Capital,0,22407,Journal entry 447 credit
+448,2025-03-25,Rent Expense,23480,0,Journal entry 448 debit
+448,2025-03-25,Accumulated Depreciation,0,23480,Journal entry 448 credit
+449,2025-03-26,Equipment,48953,0,Journal entry 449 debit
+449,2025-03-26,Capital,0,48953,Journal entry 449 credit
+450,2025-03-27,Inventory,8486,0,Journal entry 450 debit
+450,2025-03-27,Revenue,0,8486,Journal entry 450 credit
+451,2025-03-28,Salaries Expense,23817,0,Journal entry 451 debit
+451,2025-03-28,Cash,0,23817,Journal entry 451 credit
+452,2025-03-29,Salaries Expense,38180,0,Journal entry 452 debit
+452,2025-03-29,Capital,0,38180,Journal entry 452 credit
+453,2025-03-30,Salaries Expense,34722,0,Journal entry 453 debit
+453,2025-03-30,Unearned Revenue,0,34722,Journal entry 453 credit
+454,2025-03-31,Office Supplies,19637,0,Journal entry 454 debit
+454,2025-03-31,Accumulated Depreciation,0,19637,Journal entry 454 credit
+455,2025-04-01,Prepaid Expenses,18427,0,Journal entry 455 debit
+455,2025-04-01,Capital,0,18427,Journal entry 455 credit
+456,2025-04-02,Inventory,28975,0,Journal entry 456 debit
+456,2025-04-02,Accumulated Depreciation,0,28975,Journal entry 456 credit
+457,2025-04-03,Cash,44943,0,Journal entry 457 debit
+457,2025-04-03,Accumulated Depreciation,0,44943,Journal entry 457 credit
+458,2025-04-04,Prepaid Expenses,35292,0,Journal entry 458 debit
+458,2025-04-04,Capital,0,35292,Journal entry 458 credit
+459,2025-04-05,Salaries Expense,5793,0,Journal entry 459 debit
+459,2025-04-05,Revenue,0,5793,Journal entry 459 credit
+460,2025-04-06,Accounts Receivable,43584,0,Journal entry 460 debit
+460,2025-04-06,Capital,0,43584,Journal entry 460 credit
+461,2025-04-07,Office Supplies,18764,0,Journal entry 461 debit
+461,2025-04-07,Accounts Payable,0,18764,Journal entry 461 credit
+462,2025-04-08,Equipment,29819,0,Journal entry 462 debit
+462,2025-04-08,Accounts Payable,0,29819,Journal entry 462 credit
+463,2025-04-09,Equipment,7676,0,Journal entry 463 debit
+463,2025-04-09,Accumulated Depreciation,0,7676,Journal entry 463 credit
+464,2025-04-10,Prepaid Expenses,9473,0,Journal entry 464 debit
+464,2025-04-10,Accounts Payable,0,9473,Journal entry 464 credit
+465,2025-04-11,Office Supplies,33146,0,Journal entry 465 debit
+465,2025-04-11,Accumulated Depreciation,0,33146,Journal entry 465 credit
+466,2025-04-12,Cash,11826,0,Journal entry 466 debit
+466,2025-04-12,Accounts Payable,0,11826,Journal entry 466 credit
+467,2025-04-13,Inventory,44308,0,Journal entry 467 debit
+467,2025-04-13,Accumulated Depreciation,0,44308,Journal entry 467 credit
+468,2025-04-14,Office Supplies,14459,0,Journal entry 468 debit
+468,2025-04-14,Capital,0,14459,Journal entry 468 credit
+469,2025-04-15,Salaries Expense,13288,0,Journal entry 469 debit
+469,2025-04-15,Capital,0,13288,Journal entry 469 credit
+470,2025-04-16,Accounts Receivable,8266,0,Journal entry 470 debit
+470,2025-04-16,Cash,0,8266,Journal entry 470 credit
+471,2025-04-17,Salaries Expense,31442,0,Journal entry 471 debit
+471,2025-04-17,Revenue,0,31442,Journal entry 471 credit
+472,2025-04-18,Cash,16527,0,Journal entry 472 debit
+472,2025-04-18,Unearned Revenue,0,16527,Journal entry 472 credit
+473,2025-04-19,Cash,26340,0,Journal entry 473 debit
+473,2025-04-19,Capital,0,26340,Journal entry 473 credit
+474,2025-04-20,Accounts Receivable,43711,0,Journal entry 474 debit
+474,2025-04-20,Capital,0,43711,Journal entry 474 credit
+475,2025-04-21,Rent Expense,25585,0,Journal entry 475 debit
+475,2025-04-21,Accounts Payable,0,25585,Journal entry 475 credit
+476,2025-04-22,Equipment,3039,0,Journal entry 476 debit
+476,2025-04-22,Accounts Payable,0,3039,Journal entry 476 credit
+477,2025-04-23,Equipment,10256,0,Journal entry 477 debit
+477,2025-04-23,Unearned Revenue,0,10256,Journal entry 477 credit
+478,2025-04-24,Prepaid Expenses,24755,0,Journal entry 478 debit
+478,2025-04-24,Unearned Revenue,0,24755,Journal entry 478 credit
+479,2025-04-25,Prepaid Expenses,48018,0,Journal entry 479 debit
+479,2025-04-25,Unearned Revenue,0,48018,Journal entry 479 credit
+480,2025-04-26,Cash,679,0,Journal entry 480 debit
+480,2025-04-26,Revenue,0,679,Journal entry 480 credit
+481,2025-04-27,Cash,2688,0,Journal entry 481 debit
+481,2025-04-27,Unearned Revenue,0,2688,Journal entry 481 credit
+482,2025-04-28,Salaries Expense,24852,0,Journal entry 482 debit
+482,2025-04-28,Capital,0,24852,Journal entry 482 credit
+483,2025-04-29,Office Supplies,34123,0,Journal entry 483 debit
+483,2025-04-29,Unearned Revenue,0,34123,Journal entry 483 credit
+484,2025-04-30,Accounts Receivable,31436,0,Journal entry 484 debit
+484,2025-04-30,Accounts Payable,0,31436,Journal entry 484 credit
+485,2025-05-01,Equipment,26009,0,Journal entry 485 debit
+485,2025-05-01,Revenue,0,26009,Journal entry 485 credit
+486,2025-05-02,Inventory,16625,0,Journal entry 486 debit
+486,2025-05-02,Revenue,0,16625,Journal entry 486 credit
+487,2025-05-03,Office Supplies,41640,0,Journal entry 487 debit
+487,2025-05-03,Cash,0,41640,Journal entry 487 credit
+488,2025-05-04,Office Supplies,49987,0,Journal entry 488 debit
+488,2025-05-04,Unearned Revenue,0,49987,Journal entry 488 credit
+489,2025-05-05,Inventory,48621,0,Journal entry 489 debit
+489,2025-05-05,Capital,0,48621,Journal entry 489 credit
+490,2025-05-06,Office Supplies,12424,0,Journal entry 490 debit
+490,2025-05-06,Accounts Payable,0,12424,Journal entry 490 credit
+491,2025-05-07,Salaries Expense,6196,0,Journal entry 491 debit
+491,2025-05-07,Accounts Payable,0,6196,Journal entry 491 credit
+492,2025-05-08,Cash,30812,0,Journal entry 492 debit
+492,2025-05-08,Revenue,0,30812,Journal entry 492 credit
+493,2025-05-09,Office Supplies,38379,0,Journal entry 493 debit
+493,2025-05-09,Revenue,0,38379,Journal entry 493 credit
+494,2025-05-10,Equipment,38628,0,Journal entry 494 debit
+494,2025-05-10,Capital,0,38628,Journal entry 494 credit
+495,2025-05-11,Office Supplies,46128,0,Journal entry 495 debit
+495,2025-05-11,Unearned Revenue,0,46128,Journal entry 495 credit
+496,2025-05-12,Cash,8888,0,Journal entry 496 debit
+496,2025-05-12,Revenue,0,8888,Journal entry 496 credit
+497,2025-05-13,Accounts Receivable,15192,0,Journal entry 497 debit
+497,2025-05-13,Accumulated Depreciation,0,15192,Journal entry 497 credit
+498,2025-05-14,Cash,20036,0,Journal entry 498 debit
+498,2025-05-14,Cash,0,20036,Journal entry 498 credit
+499,2025-05-15,Cash,8227,0,Journal entry 499 debit
+499,2025-05-15,Revenue,0,8227,Journal entry 499 credit
+500,2025-05-16,Inventory,19343,0,Journal entry 500 debit
+500,2025-05-16,Accounts Payable,0,19343,Journal entry 500 credit

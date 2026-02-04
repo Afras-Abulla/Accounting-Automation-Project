@@ -1,0 +1,11 @@
+Date,Description,Debit,Credit,Balance
+2025-01-01,Opening Balance,0,0,20000
+2025-01-03,Customer Receipt,5000,0,25000
+2025-01-05,Office Rent,3000,0,22000
+2025-01-08,Cheque – Supplier,4500,0,17500
+2025-01-10,Customer Receipt,7000,0,24500
+2025-01-12,Electricity Bill,2000,0,22500
+2025-01-15,Customer Receipt,4000,0,26500
+2025-01-18,Bank Charges,150,0,26350
+2025-01-22,Cheque – Supplier,3500,0,22850
+2025-01-26,Customer Receipt,6000,0,28850
